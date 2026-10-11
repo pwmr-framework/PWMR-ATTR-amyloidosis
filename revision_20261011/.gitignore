@@ -1,1 +1,7 @@
-
+inputs/
+upstream_inputs/
+rerun_outputs/
+source_baseline/
+.env
+.env.*
+.DS_Store
