@@ -1,0 +1,86 @@
+[
+  {
+    "required_path": "inputs/01_extraction_progress.rds",
+    "sha256": "79ff52dea9c8f09fcfc4e195c04044831adf409f7d30146b9b86fc52c35d1524",
+    "bytes": 140574,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/PosCtrl_BMI_all_results.csv",
+    "sha256": "21154701338f0d005151fb37fb50a549a52977a9f508589b6475393f71098d86",
+    "bytes": 410044,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/19_mr_t2d_results.csv",
+    "sha256": "bc42671d373140253b319e3c5c7571cd165c62bee760fd4bca9a59e31a24266b",
+    "bytes": 313360,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/10_mr_hf_results.csv",
+    "sha256": "53ed77e7b827395556601e74acf9195d875e24be38a54c2ea65036b4a1464a29",
+    "bytes": 489226,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/11_triangulation_combined.csv",
+    "sha256": "a233c54c4a4c80a640f29c597d77ca016e21070086bb4501f68140c7a3ba1ebe",
+    "bytes": 669040,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/04_mr_results_corrected.csv",
+    "sha256": "b97cd6069444b6b327d62884ac1f00b1e40b7262f7f3947ad11f858b3c2af11f",
+    "bytes": 547154,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/30_mr_ldl_results.csv",
+    "sha256": "f872d6392202f2528d974cacd17c1c16bd2b4fa30851f5c923b9d40bc29a255b",
+    "bytes": 273669,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/31_mr_cad_results.csv",
+    "sha256": "01e73c6099e019998423137d6bf9ae713dbd75eb52645a81d395a1d0c8513ca4",
+    "bytes": 474685,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/35_mr_ckd_results.csv",
+    "sha256": "2d6f723de5f5bbd68fb13047def05e885f557fe180bd9c97e54ca94f3d928b7f",
+    "bytes": 300004,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/36_mr_sbp_results.csv",
+    "sha256": "2ddd2af87ebf2ae47e4a356f5dfcbc3f5a00ddb14c2674c146f809771783888a",
+    "bytes": 459202,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/37_mr_stroke_results.csv",
+    "sha256": "08482ee511e7932ea3197997dd827473fda6c09331532352f11b10c9d64d6d5e",
+    "bytes": 472715,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  },
+  {
+    "required_path": "inputs/39_mr_masld_results.csv",
+    "sha256": "f35e1d1608cb235be1395058aaf361e535b164b4cfb93e3ec1622a7b6d87de1f",
+    "bytes": 450412,
+    "included": false,
+    "status": "LOCAL_SNAPSHOT_IDENTIFIED_ACCESS_AND_TERMS_REVIEW_PENDING"
+  }
+]

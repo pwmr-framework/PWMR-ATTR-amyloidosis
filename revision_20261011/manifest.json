@@ -1,0 +1,61 @@
+{
+  "status": "AUTHOR_APPROVED_CODE_ONLY_SNAPSHOT",
+  "licence": "MIT for author-owned code and original documentation, not third-party data or dependencies",
+  "prepared_date": "2026-10-11",
+  "upstream_data_included": false,
+  "saved_results_included": false,
+  "complete_reproduction_claim": false,
+  "manifest_excludes_itself": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 79,
+      "sha256": "b24b532a6a16ccab3cc7928b5972350e9984892d4b5e0067b7c51e41b30c4844"
+    },
+    {
+      "path": "INPUTS_AND_LIMITATIONS.md",
+      "bytes": 3968,
+      "sha256": "3a6d64bbdfbe817460214cfeeeda530e426e5ac921260002ce8d13c1a467f9be"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1070,
+      "sha256": "5ed3d2d1f893294559f8cf4ea5ecb211508c53976b8d49132e2524dff0c6db8b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4094,
+      "sha256": "803b6292b889364fa9e948e36df1dde9a51ef79a453579d3ab17f2aebb8eed95"
+    },
+    {
+      "path": "analysis/dense_power_10000_path_adapted.R",
+      "bytes": 6081,
+      "sha256": "8e04f66f3fda2a23df27f3924815170ec9bf451053097a8c2f658b771a0fa26a"
+    },
+    {
+      "path": "analysis/recompute_saved_sun_itih1_diagnostic.R",
+      "bytes": 6982,
+      "sha256": "60e9c94e068e3e669f47cead72b306f9f9045f7de096b88493605e8638683e86"
+    },
+    {
+      "path": "analysis/reviewer_sensitivity_analysis.R",
+      "bytes": 14646,
+      "sha256": "02be0a90b16300825e460253a1edae1fe1d968722fadebaf9b38d39be0430e52"
+    },
+    {
+      "path": "analysis/run_pon1.R",
+      "bytes": 7061,
+      "sha256": "ec32004749b71cd56ce709bdb545d302cf415640d5f59e2798812d50a36d4733"
+    },
+    {
+      "path": "analysis/unified_trajectory_calibration.R",
+      "bytes": 11091,
+      "sha256": "386738933bb4058154a03cf6a6a060468c08cb327d2747d22e80e6f85685eb80"
+    },
+    {
+      "path": "source_inputs_manifest.json",
+      "bytes": 3176,
+      "sha256": "44694c5aa8e24b35bef22d55d58989158bf603079c4c9bed7a2056c7f7559f43"
+    }
+  ]
+}
